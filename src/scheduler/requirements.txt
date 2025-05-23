@@ -1,0 +1,6 @@
+aiolimiter
+apscheduler
+loguru
+asyncpg
+sqlalchemy
+aiogram

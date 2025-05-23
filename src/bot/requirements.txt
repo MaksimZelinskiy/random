@@ -1,0 +1,9 @@
+aiogram
+fastapi
+sqlalchemy
+asyncpg
+aiocryptopay
+matplotlib
+scipy
+apscheduler
+instaloader

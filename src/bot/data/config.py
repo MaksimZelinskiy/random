@@ -1,9 +1,9 @@
 # prod
 
-BOT_TOKEN = "7322964849:AAH1elUCi8uX78PfcEj_MAP4vOJndltLXcE"
+BOT_TOKEN = ""
 
 DB_HOST, DB_NAME, DB_PASSWORD, DB_USER, DB_PORT = (
-    "localhost", "random", "com265", "com_user", 5656
+    "localhost", "random", "", "", 5656
 )
 
 CHATS = {
